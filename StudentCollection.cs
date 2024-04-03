@@ -108,11 +108,6 @@ namespace ÖvningGenerics20240403
                     //Ut ur loopen
                     break;
                 }
-                //Lagt till själv, ställ fråga
-                //else
-                //{
-                //    Console.WriteLine("The student could not be found.");
-                //}
             }
             return result;
             //Returnera resultat
